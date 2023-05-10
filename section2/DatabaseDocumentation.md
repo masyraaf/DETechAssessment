@@ -16,7 +16,7 @@ The database consists of 3 tables:
 
 The ER Diagram represents the data entities required and their relationships used to design the database. 
 
-![DETech.jpg](Documentation%20658ea8320120433e9ca68b371c2162a7/DETech.jpg)
+![DETech.jpg](DETech.jpg)
 
 ## Dockerfile
 
