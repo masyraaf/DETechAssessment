@@ -10,9 +10,7 @@ successful_dir = 'successful_applications/'
 unsuccessful_dir = 'unsuccessful_applications/'
 filename = sys.argv[1]
 
-# Loop through each file in the input directory
-
-    # Load the data from the file
+# Load the data from the file
 df = pd.read_csv(os.path.join(input_dir, filename))
 
 # Define a regular expression to match prefixes and suffixes
